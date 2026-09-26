@@ -1,0 +1,8 @@
+[user]
+	name = Aditya Balaji
+	email = balaji93@purdue.edu
+[init]
+	default = branch
+	defaultBranch = main
+[core]
+	editor = vim
